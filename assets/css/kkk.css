@@ -140,12 +140,3 @@ div {text-align:left;}
         transform: translate(15px);
     }
 }
-
-
-h1{
-  background-color:rgb(0, 0, 128);
-  color:rgb(0,128,128);
-}
-body{
-  background-color: rgb(176, 196, 222);
-}
