@@ -67,3 +67,8 @@ div#body{
 }
 /* 背景色 */
 body{background-color: rgb(200,200,200);}
+/* h1の色 */
+h1{
+  background-color: #999
+
+}
