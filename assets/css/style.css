@@ -53,7 +53,7 @@ div#footer {
 	border: 5px solid #fff;    /* 表示領域を白枠で囲う */
 	height: 100%;              /* 縦の表示領域はheader-bkと同じ */
 	width: 960px;              /* 横の幅970px */
-	margin: auto;              /* 中央揃え */
+	margin:　auto;             /* 中央揃え */
 }
 
 /* ボディの定義 */
